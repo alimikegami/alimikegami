@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm a third year Computer Science student who's passionate about Data Science 
 <!--
 **alimikegami/alimikegami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
