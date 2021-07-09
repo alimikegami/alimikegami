@@ -1,5 +1,6 @@
 ### Hi there 👋
 - I'm a third year computer science students who has interests in Data Science and Web Development
+- I’m currently working on beginner level Kaggle's challenges 
 - Reach me at: [Email](mailto:alimikegami1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alim-ikegami-b21aba131/) | [Instagram](https://www.instagram.com/alimikegami/)
 <!--
 **alimikegami/alimikegami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
