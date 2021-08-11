@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I'm a third year computer science student who has interests in Back-end Web Development and Data Science
-- I’m currently working on Laravel Web Project
+- I'm a third year computer science student who has interests in Back-end Development and Data Science
+- I’m currently working on Laravel Web Project and learning about Node.js and API
 - Reach me at: [Email](mailto:alimikegami1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alim-ikegami-b21aba131/) | [Instagram](https://www.instagram.com/alimikegami/) | [Kaggle](https://www.kaggle.com/alimikegami)
 ### Tech Stack
 <table style="width:100%">
