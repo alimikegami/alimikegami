@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm a third year computer science student who has interests in Back-end Development and Data Science
-- I’m currently working on Laravel Web Project and learning about Node.js and API
+- I’m currently working on Laravel Web Project and learning in depth about Node.js and API
 - Reach me at: [Email](mailto:alimikegami1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alim-ikegami-b21aba131/) | [Instagram](https://www.instagram.com/alimikegami/) | [Kaggle](https://www.kaggle.com/alimikegami)
 ### Tech Stack
 <table style="width:100%">
@@ -23,6 +23,11 @@
   <tr>
     <td>Version Control</td>
     <td><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>Others</td>
+    <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
+    
   </tr>
 </table>
       
