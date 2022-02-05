@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&duration=3000&lines=Hi+there+%F0%9F%91%8B;My+name+is+Alim+Ikegami)](https://git.io/typing-svg)
-
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&duration=3000&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;My+name+is+Alim+Ikegami">
+</div>
 I'm currently a third-year Computer Science student who is aspiring to be a Backend Engineer.<br>
 In my spare time, I like to read self-improvement books and software engineering articles.<br
 
