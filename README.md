@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&duration=3000&center=true&vCenter=true&lines=Hi+there+%F0%9F%91%8B;My+name+is+Alim+Ikegami">
 </div>
-I'm a recent graduate from Udayana University with a passion for back-end engineering. My experience includes working with Go, Node.js, Laravel, and Java. I'm always striving to learn and grow, and I believe that my dedication and enthusiasm for technology make me an asset to any team. 
+I'm a recent graduate from Udayana University with a passion for back-end engineering. My experience includes working with Go, Node.js, Laravel, and Java.
 
 ## My Tech Stacks
 ### Frontend
